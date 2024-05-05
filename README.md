@@ -43,8 +43,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img style="vertical-align: bottom; width: 390px;" src="https://github-readme-stats.vercel.app/api?username=A5pir1n&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img style="vertical-align: bottom; width: 328px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A5pir1n&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img style="vertical-align: bottom; width: 410px;" src="https://github-readme-stats.vercel.app/api?username=A5pir1n&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img style="vertical-align: bottom; width: 320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A5pir1n&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
      <img width=500 src="https://streak-stats.demolab.com?user=A5pir1n&theme=iceberg" alt="streak stats"/>
 </div>
